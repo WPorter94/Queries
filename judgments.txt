@@ -1,0 +1,14 @@
+query6a skip antony_and_cleopatra:1.0 3
+query6a skip midsummer_nights_dream:3.0 3
+query6a skip richard_iii:4.2 3
+query6a skip richard_iii:0.3 3
+query6a skip hamlet:2.0 2
+query6a skip romeo_and_juliet:0.3 2
+query6a skip merchant_of_venice:1.4 2
+query6a skip richard_iii:3.1 1
+query6a skip cymbeline:3.1 1
+query6a skip macbeth:2.1 0
+query6a skip cymbeline:4.3 1
+query6a skip romeo_and_juliet:4.0 1
+query6a skip twelfth_night:3.0 1
+
